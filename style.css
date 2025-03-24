@@ -1,0 +1,23 @@
+img 
+{
+height: 450px;
+width: 450px;
+margin: auto;
+}
+
+.article
+{
+    float: left;
+    border: solid 3px black;
+    height: 836px;
+    width: 836px;
+    margin: auto;
+    text-align: center;
+}
+
+body
+{
+    text-align: center;
+    background-color: azure;  
+
+}
